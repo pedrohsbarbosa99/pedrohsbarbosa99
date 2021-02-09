@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 style="color:#FF1493">Hi, I'm CPedro Barbosa !</h1>
 
-<!--
-**pedrohsbarbosa99/pedrohsbarbosa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre :
+<br>
+<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Atualmente sou estudante de Python e Django.
+-  Estou aprendendo sobre algoritimos em python. 
+-  Futuros objetivos: aprender sobre desenvolvimento backend Web.
+
+
+
+## Midias Sociais
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pedro-barbosa-6bb200165/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pedro_hsbarbosa/)<br>
