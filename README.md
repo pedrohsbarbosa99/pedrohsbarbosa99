@@ -2,7 +2,6 @@
 
 ## Sobre :
 <br>
-<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
 
 
 -  Atualmente sou estudante de Python e Django.
