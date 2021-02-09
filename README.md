@@ -1,4 +1,4 @@
-<h1 style="color:#FF1493">Hi, I'm CPedro Barbosa !</h1>
+<h1 style="color:#FF1493">Hi, I'm Pedro Barbosa !</h1>
 
 ## Sobre :
 <br>
