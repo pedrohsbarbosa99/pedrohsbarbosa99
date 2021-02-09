@@ -6,7 +6,7 @@
 
 -  Atualmente sou estudante de Python e Django.
 -  Estou aprendendo sobre algoritimos em python. 
--  Futuros objetivos: aprender sobre desenvolvimento backend Web.
+-  Futuros objetivos: aprofundar em desenvolvimento backend web.
 
 
 
