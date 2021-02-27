@@ -4,8 +4,9 @@
 <br>
 
 
--  Atualmente sou estudante de Python e Django.
+-  Atualmente sou estudante de Python.
 -  Estou aprendendo sobre algoritimos em python. 
+-  Criação de Scripts em python para manipulação de base de dados e arquivos.
 -  Futuros objetivos: aprofundar em desenvolvimento backend web.
 
 
