@@ -6,8 +6,7 @@
 
 -  Atualmente sou estudante de Python.
 -  Estou aprendendo sobre algoritimos em python. 
--  Criação de Scripts em python para manipulação de base de dados e arquivos.
--  Futuros objetivos: aprofundar em desenvolvimento backend web.
+-  Criação de Scripts em python para manipulação de dados em arquivos csv e extracao de dados em base de dados.
 
 
 
