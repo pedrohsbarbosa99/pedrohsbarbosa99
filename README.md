@@ -1,4 +1,4 @@
-##Hi, I'm Pedro Barbosa !
+<h1>Hi, I'm Pedro Barbosa !</h1>
 
 ## I'm Python student :
 <br>
