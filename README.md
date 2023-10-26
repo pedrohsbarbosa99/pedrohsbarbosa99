@@ -1,5 +1,8 @@
 ```python
 from pedro.barbosa import Developer
+from pedro.barbosa.models import History
+
+History.objects.create(company="Napp Solutions", start_date="2020-01-13", end_date=None)
 
 class AboutMe(Developer):
     name = "Pedro Barbosa"
