@@ -18,7 +18,7 @@ class Skills(Developer):
     libraries = ["pytest", "Pandas", "Django Ninja", "Django Ninja JWT", "Pydantic"]
     frameworks = ["Django", "djangorestframework", "selenium"]
     databases = ["PostgreSQL", "MongoDB", "MySQL"]
-    learning = ["Javascript"]
+    learning = ["Golang", "Javascript", "React"]
 ```
 
 <p align="left">
