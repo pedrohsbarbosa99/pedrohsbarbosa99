@@ -36,6 +36,6 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="PedroHsBarbosa's Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph/?username=pedrohsbarbosa99&hide_border=true&theme=dracula&bg_color=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282A36" /></a>
+      src="https://github-readme-activity-graph.vercel.app/graph/?username=pedrohsbarbosa99&hide_border=true&theme=dracula&bg_color=282A36" /></a>
 
 </details>
