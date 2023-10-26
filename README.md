@@ -18,15 +18,9 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-omega-eight-47.vercel.app/api?username=pedrohsbarbosa99&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="192px" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center"
-    src="https://github-readme-stats-omega-eight-47.vercel.app/api/top-langs?username=pedrohsbarbosa99&langs_count=8&layout=compact&theme=dracula&hide_border=true&exclude=github-readme-streak-stats,github-readme-stats" height="192px" />
-</a>
-
-  <br />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats-tau-eight-87.vercel.app/api/?username=pedrohsbarbosa99&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats-tau-eight-87.vercel.app/api/top-langs/?username=pedrohsbarbosa99&langs_count=8&layout=compact&theme=dracula&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/>
   <br />
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
   or skill level.
