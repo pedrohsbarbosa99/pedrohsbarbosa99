@@ -7,9 +7,9 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/pedrohsbarbosa99/github-readme-stats">
+    <a href="https://github.com/pedrohsbarbosa99/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PedroHsBarbosa's streak"
-        src="https://github-readme-streak-stats-blue.vercel.app?user=pedrohsbarbosa99&theme=dracula&hide_border=true&exclude_days=Sun" />
+        src="https://github-readme-streak-stats-six-kappa.vercel.app?user=pedrohsbarbosa99&theme=dracula&hide_border=true&exclude_days=Sun" />
     </a>
   </p>
 
@@ -19,11 +19,11 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-omega-eight-47.vercel.app/api?username=pedrohsbarbosa99&theme=dracula&hide_border=true" height="192px" />
+  <img align="center" src="https://github-readme-stats-omega-eight-47.vercel.app/api?username=pedrohsbarbosa99&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="192px" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center"
-    src="https://github-readme-stats-omega-eight-47.vercel.app/api/top-langs?username=pedrohsbarbosa99&theme=dracula&hide_border=true&layout=compact&langs_count=8&exclude=github-readme-streak-stats,github-readme-stats" height="192px" />
+    src="https://github-readme-stats-omega-eight-47.vercel.app/api/top-langs?username=pedrohsbarbosa99&langs_count=8&layout=compact&theme=dracula&hide_border=true&exclude=github-readme-streak-stats,github-readme-stats" height="192px" />
 </a>
 
   <br />
@@ -36,6 +36,6 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="PedroHsBarbosa's Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph/?username=pedrohsbarbosa99&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+      src="https://github-readme-activity-graph.vercel.app/graph/?username=pedrohsbarbosa99&hide_border=true&theme=dracula&bg_color=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282A36" /></a>
 
 </details>
