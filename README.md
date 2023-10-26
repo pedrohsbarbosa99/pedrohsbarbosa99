@@ -3,7 +3,7 @@ from pedro.barbosa import Developer
 
 class AboutMe(Developer):
     name = "Pedro Barbosa"
-    area = "Desenvolvedor Backend"
+    area = "Backend Developer"
     works_at = "Napp Solutions"
     location = "Brazil"
 
@@ -16,7 +16,7 @@ class AboutMe(Developer):
 class Skills(Developer):
     languages = ["Python" for _ in range(100)]
     libraries = ["pytest", "Pandas", "Django Ninja", "Django Ninja JWT", "Pydantic"]
-    frameworks = ["Django", "djangorestframework", "selenium"]
+    frameworks = ["Django", "djangorestframework", "selenium", "Spyder"]
     databases = ["PostgreSQL", "MongoDB", "MySQL"]
     learning = ["Golang", "Javascript", "React"]
 ```
