@@ -1,3 +1,34 @@
+```python
+from pedro.barbosa import Developer
+
+class AboutMe(Developer):
+    name = "Pedro Barbosa"
+    area = "Desenvolvedor Backend"
+    works_at = "Napp Solutions"
+    location = "Brazil"
+
+    def get_short_description(self):
+        return "Python Developer with 2+ years experience"
+
+    def get_long_description(self):
+        raise NotImplementedError("I'm Think about this") 
+
+class Skills(Developer):
+    languages = ["Python" for _ in range(100)]
+    libraries = ["pytest", "Pandas", "Django Ninja", "Django Ninja JWT", "Pydantic"]
+    frameworks = ["Django", "djangorestframework", "selenium"]
+    databases = ["PostgreSQL", "MongoDB", "MySQL"]
+    learning = ["Javascript"]
+```
+
+<p align="left">
+  <a href="mailto:pedrohsbarbosa99@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrohsbarbosa99@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/pedro-barbosa-6bb200165/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-barbosa-6bb200165/" /></a>
+</p>
+
 <details open>
   <summary>
     <h2>📊 Github Stats and Activity</h2>
