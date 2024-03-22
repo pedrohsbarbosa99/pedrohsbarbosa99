@@ -11,7 +11,7 @@ class AboutMe(Developer):
     location = "Brazil"
 
     def get_short_description(self):
-        return "Python Developer with 2+ years experience"
+        return "Python Developer with 3+ years experience"
 
     def get_long_description(self):
         raise NotImplementedError("I'm Think about this") 
@@ -36,16 +36,6 @@ class Skills(Developer):
   <summary>
     <h2>📊 Github Stats and Activity</h2>
   </summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/PedroHsBarbosa/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/pedrohsbarbosa99/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PedroHsBarbosa's streak"
-        src="https://github-readme-streak-stats-six-kappa.vercel.app?user=pedrohsbarbosa99&theme=dracula&hide_border=true&exclude_days=Sun" />
-    </a>
-  </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
