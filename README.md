@@ -18,7 +18,7 @@ class AboutMe(Developer):
 
 class Skills(Developer):
     languages = ["Python" for _ in range(100)]
-    libraries = ["pytest", "Pandas", "Django Ninja", "Django Ninja JWT", "Pydantic"]
+    libraries = ["pytest", "Pandas", "Django Ninja", "Django Ninja JWT", "Pydantic", "Polars"]
     frameworks = ["Django", "djangorestframework", "selenium", "Spyder"]
     databases = ["PostgreSQL", "MongoDB", "MySQL"]
     learning = ["Golang", "Javascript", "React"]
